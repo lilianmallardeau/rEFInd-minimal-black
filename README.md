@@ -44,8 +44,7 @@ Entries that are autodetected should also show the proper icons.
 ### Background sizes
 
 If you find the background looks blurry it may be due to the included wallpaper
-being an incorrect resolution for your monitor. You can download the [original
-high quality wallpaper][wallpaper], resize it as appropriate, and replace the
+being an incorrect resolution for your monitor. You can resize it as appropriate, and replace the
 `background.png`.
 
 You can of course also choose your own background!
@@ -54,13 +53,5 @@ You can of course also choose your own background!
 
 The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
 
-The background is [Minimalist Wallpaper][wallpaper] by
-[LeonardoAIanB][wallpaper-author]. Thank you to [Padster][padster] for locating
-it!
-
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
-
-[padster]: https://github.com/theRealPadster
-[wallpaper]: http://leonardoalanb.deviantart.com/art/Minimalist-wallpaper-295519786
-[wallpaper-author]: http://leonardoalanb.deviantart.com/
